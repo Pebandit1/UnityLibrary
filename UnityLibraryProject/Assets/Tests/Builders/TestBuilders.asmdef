@@ -1,0 +1,17 @@
+{
+    "name": "TestBuilders",
+    "rootNamespace": "Tests.TestBuilders",
+    "references": [
+        "GUID:6fc986019d315d74381b386670339ea7",
+        "GUID:89272243348c8d24c95434f1f52ec3f9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

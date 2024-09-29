@@ -3,7 +3,6 @@ using static MyMath.LinearAlgebraMath;
 using static System.Math;
 using MyMath;
 using System.Collections;
-using System;
 
 namespace Tests.EditMode.MyMath.LinearAlgebraMathTests
 {

@@ -4,7 +4,7 @@ using DataRecording;
 using System.Linq;
 using static Utilities.NumericEqualities;
 
-namespace Tests.EditMode.RecorderTest
+namespace Tests.EditMode
 {
     /// <summary>
     /// Tests for the DataRecoder Class
@@ -66,7 +66,5 @@ namespace Tests.EditMode.RecorderTest
 
             Assert.AreEqual(target, recoder.Data.First());
         }
-
-
     }
 }

@@ -5,11 +5,10 @@
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner",
         "TestBuilders",
-        "ProceduralGeneration",
-        "PrimitiveStructures",
         "DataRecording",
         "MyMath",
-        "Utilities"
+        "Utilities",
+        "Serialization"
     ],
     "includePlatforms": [
         "Editor"
